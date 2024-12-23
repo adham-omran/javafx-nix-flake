@@ -4,9 +4,11 @@ This is a basic JavaFX Nix Flake
 
 This uses the following versions
 
-| NixOS Channel | 24.11 |
-| Java          | 23    |
-| JavaFX        | 23    |
+| Item          | Version |
+|---------------|---------|
+| NixOS Channel | 24.11   |
+| Java          | 23      |
+| JavaFX        | 23      |
 
 This uses the following command to bootstrap the project
 

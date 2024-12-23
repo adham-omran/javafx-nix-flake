@@ -29,12 +29,3 @@ Then run with
 cd sample/
 mvn clean javafx:run
 ```
-
-
-# Issues
-
-## libgthread-2.0.so.0 not found
-
-## libXxf86vm.so.1: cannot open shared object file: No such file or directory
-
-xorg.libXxf86vm
